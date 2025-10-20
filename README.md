@@ -1,4 +1,4 @@
-#App script to be set to run periodically.
+# App script to be set to run periodically.
 
 Create project here https://script.google.com/home
 
